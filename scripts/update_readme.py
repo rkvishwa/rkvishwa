@@ -25,7 +25,7 @@ def main():
     
     # URLs for the stats
     streak_url = f"https://github-readme-streak-stats.herokuapp.com/?user={username}"
-    stats_url = f"https://github-readme-stats.vercel.app/api?username={username}"
+    stats_url = f"https://github-readme-stats.vercel.app/api?username={username}&include_all_commits=true"
     
     try:
         streak_svg = fetch_svg(streak_url)
@@ -38,9 +38,9 @@ def main():
         # Extract Current Streak
         current_streak = extract_stat(streak_svg, r'<!-- Current Streak big number -->.*?<text[^>]*>\s*(\d+)\s*</text>')
         
-        # Extract Total Commits
-        # <text ... data-testid="commits">3402</text>
-        total_commits = extract_stat(stats_svg, r'data-testid="commits"[^>]*>\s*([0-9kK,.]+)\s*</text>')
+        # Extract Total Contributions
+        # <!-- Total Contributions big number -->.*?<text[^>]*>\s*([0-9kK,.]+)\s*</text>
+        total_commits = extract_stat(streak_svg, r'<!-- Total Contributions big number -->.*?<text[^>]*>\s*([0-9kK,.]+)\s*</text>')
         
         print(f"Longest Streak: {longest_streak}")
         print(f"Current Streak: {current_streak}")
@@ -68,10 +68,10 @@ def main():
             readme_content
         )
         
-        # Replace Total commits
+        # Replace Total contributions
         readme_content = re.sub(
-            r'Total commits:.*?(\n)',
-            f'Total commits: {total_commits}\\1',
+            r'Total contributions:.*?(\n)',
+            f'Total contributions: {total_commits}\\1',
             readme_content
         )
         
