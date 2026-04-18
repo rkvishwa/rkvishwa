@@ -2,10 +2,12 @@
 $ devfetch
 
                                      rkvishwa@github
-       ██████╗ ██╗   ██╗ ██╗  ██╗    ---------------
-       ██╔══██╗██║   ██║ ██║ ██╔╝    Role: Software developer & AI Engineer
-       ██████╔╝██║   ██║ █████╔╝     Focus: Clean architecture
-       ╚═╝  ╚═╝  ╚═══╝   ╚═╝  ╚═╝    
+       ██████╗ ██╗   ██╗██╗  ██╗    ---------------
+       ██╔══██╗██║   ██║██║ ██╔╝    Role: Software developer & AI Engineer
+       ██████╔╝██║   ██║█████╔╝     Focus: Clean architecture
+       ██╔══██╗╚██╗ ██╔╝██╔═██╗     Languages: JavaScript, TypeScript, Python
+       ██║  ██║ ╚████╔╝ ██║  ██╗    Tools: VS Code, Git, Docker
+       ╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝    
                                      stats
                                      -----
                                      Longest streak: 44 days
