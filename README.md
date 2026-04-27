@@ -8,9 +8,9 @@ $ devfetch
         ██████████╔╝██║      ██║ █████╔╝            
         ██╔════██╔╝ ╚██╗    ██╔╝ ██╔═██╗            stats
         ██║    ██║   ╚██╗  ██╔╝  ██║  ██╗           -----
-        ██║    ██║    ╚█████╔╝   ██║   ██╗          Longest streak: 52 days
-        ╚═╝    ╚═╝     ╚════╝    ╚═╝   ╚═╝          Current streak: 52 days
-                                                    Total contributions: 3,308
+        ██║    ██║    ╚█████╔╝   ██║   ██╗          Longest streak: 53 days
+        ╚═╝    ╚═╝     ╚════╝    ╚═╝   ╚═╝          Current streak: 53 days
+                                                    Total contributions: 3,309
                                                     
                                                     working on
                                                     ----------
