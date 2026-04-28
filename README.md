@@ -1,5 +1,5 @@
 ```text
-$ devfetch
+$ rvk
 
                                                     rkvishwa@github
         ██████████╗ ██╗      ██╗ ██╗   ██╗          ---------------
