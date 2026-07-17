@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/RVK-21262d?style=for-the-badge&logo=github&logoColor=white" alt="RVK" />
 </p>
 
