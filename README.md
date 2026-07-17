@@ -1,6 +1,4 @@
-<p align="left">
-  <img src="https://img.shields.io/static/v1?label=RVK&message=&color=21262d&logo=github&logoColor=58a6ff&style=for-the-badge" alt="RVK" />
-</p>
+<h2 align="left">RVK</h2>
 
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/users/rkk-vishva/credentials/404dfcc1ef1563c1">
@@ -13,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://learn.microsoft.com/en-us/users/rkk-vishva/credentials/404dfcc1ef1563c1">🔗 View Certificate</a>
+  <a href="https://learn.microsoft.com/en-us/users/rkk-vishva/credentials/404dfcc1ef1563c1" style="text-decoration: none;">View Certificate</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/en-us/users/rkk-vishva/credentials/fe1abcd4b506ada4">🔗 View Certificate</a>
+  <a href="https://learn.microsoft.com/en-us/users/rkk-vishva/credentials/fe1abcd4b506ada4" style="text-decoration: none;">View Certificate</a>
 </p>
