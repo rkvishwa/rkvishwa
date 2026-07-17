@@ -1,4 +1,6 @@
-<h2 align="left">RVK</h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/RVK-21262d?style=for-the-badge&logo=github&logoColor=white" alt="RVK" />
+</p>
 
 <p align="center">
   <a href="https://learn.microsoft.com/en-us/users/rkk-vishva/credentials/404dfcc1ef1563c1">
